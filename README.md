@@ -308,17 +308,18 @@ flutter build ios --release
 
 ## 📱 Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <img src="screenshots/1.jpg" width="100" />
-  <img src="screenshots/2.jpg" width="100" />
-  <img src="screenshots/3.jpg" width="100" />
-  <img src="screenshots/4.jpg" width="100" />
-  <img src="screenshots/5.jpg" width="100" />
-  <img src="screenshots/6.jpg" width="100" />
-  <img src="screenshots/7.jpg" width="100" />
-  <img src="screenshots/8.jpg" width="100" />
-  <img src="screenshots/9.jpg" width="100" />
+<div style="display: flex; overflow-x: auto; gap: 10px;">
+  <img src="screenshots/1.jpg" width="150" />
+  <img src="screenshots/2.jpg" width="150" />
+  <img src="screenshots/3.jpg" width="150" />
+  <img src="screenshots/4.jpg" width="150" />
+  <img src="screenshots/5.jpg" width="150" />
+  <img src="screenshots/6.jpg" width="150" />
+  <img src="screenshots/7.jpg" width="150" />
+  <img src="screenshots/8.jpg" width="150" />
+  <img src="screenshots/9.jpg" width="150" />
 </div>
+
 ## 🎥 Demo
 
 - **APK Download:** [Download Link](https://github.com/pr-mah99/mobile-financial-system/releases)
