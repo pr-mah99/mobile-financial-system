@@ -308,7 +308,7 @@ flutter build ios --release
 
 ## 📱 Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="screenshots/1.jpg" width="100" />
   <img src="screenshots/2.jpg" width="100" />
   <img src="screenshots/3.jpg" width="100" />
