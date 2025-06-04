@@ -36,7 +36,7 @@ A full-stack mobile financial application built with Laravel (Backend) and Flutt
 - 💳 Wallet Balance Display
 - 💸 Send Money Interface
 - 📱 Real-time Balance Updates
-- ⚡ State Management (Provider/Bloc)
+- ⚡ State Management (Provider)
 - 🎨 Material Design UI
 - 🔐 Secure Token Storage
 
